@@ -1,0 +1,1 @@
+export type SignInFlow = "signIn" | "signUp"  //确定明确的登录流类型
